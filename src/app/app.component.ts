@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myProject';
+  name: string = 'Анна';
+  age: number = 15;
+  imgUrl: string = 'https://zooclub.ru/attach/6566.jpg';
 }
